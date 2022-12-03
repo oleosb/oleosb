@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Leo 🤙
 
-- 🔭 Hoje trabalho com produção automotiva
-- 🌱 Estudando Typescript and ReactJS
-- 🤔 Procurando meu primeiro emprego como Desenvolvedor Frontend
+- 🔭 Hoje trabalho com produção automotiva.
+- 🌱 Estudando Typescript and ReactJS.
+- 🤔 Procurando meu primeiro emprego como Desenvolvedor Frontend.
 
 <div align="center">
   <a href="https://leosb.com.br">
