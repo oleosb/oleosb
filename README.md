@@ -5,7 +5,7 @@
 - 🧐 Procurando meu primeiro emprego como Desenvolvedor de Software.
 
 <div align="center">
-  <a href="https://leosb.com.br">
+  <a href="https://oleosb.github.io/portfolio">
   <img width='48%' src="https://github-readme-stats.vercel.app/api?username=oleosb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleosb&layout=compact&langs_count=7&theme=dark"/>
 </div>
