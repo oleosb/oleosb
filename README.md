@@ -11,7 +11,7 @@
   <img width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleosb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style={"display: flex", "justify-content: center"}><br>
+<div style="display: flex", "justify-content: center"><br>
   <img align="center" alt="Leo-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Leo-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
