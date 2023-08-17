@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho com produção automotiva.
 - 🌱 Estudando Redux, React Native e PHP.
 - 👨‍🎓 Cursando Engenharia de Software
-- 🧐 Procurando meu primeiro emprego como Desenvolvedor de Software.
+- 🧐 Buscando meu primeiro emprego como Desenvolvedor de Software.
 
 <div align="center">
   <a href="https://oleosb.github.io/portfolio">
