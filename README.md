@@ -3,7 +3,7 @@
 ### Olá! Eu sou o Leo 🤙
 
 - 🔭 Hoje trabalho com produção automotiva.
-- 🌱 Estudando Redux e PHP.
+- 🌱 Estudando NodeJS.
 - 👨‍🎓 Cursando Engenharia de Software
 - 🧐 Buscando meu primeiro emprego como Desenvolvedor de Software.
 
