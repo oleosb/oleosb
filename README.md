@@ -2,9 +2,8 @@
 
 ### Olá! Eu sou o Leo 🤙
 
-- 🌱 Estudando React Native e analise de dados com Python.
+- 🌱 Estagiário FullStack na Encora Inc. 💛
 - 👨‍🎓 Cursando Engenharia de Software
-- 🧐 Buscando meu primeiro emprego como Desenvolvedor de Software.
 
 <div align="center">
   <a href="https://oleosb.github.io/portfolio">
