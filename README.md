@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=oleosb.oleosb"/>
 
-### Olá! Eu sou o Leo 🤙
+### Olá!
 
 - 🌱 Estagiário FullStack na Encora Inc. 💛
 - 👨‍🎓 Cursando Engenharia de Software
