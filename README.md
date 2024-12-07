@@ -2,8 +2,7 @@
 
 ### Olá!
 
-- 🌱 Estagiário FullStack na Encora Inc. 💛
-- 👨‍🎓 Cursando Engenharia de Software
+- 🌱 FullStack Dev Encora Inc. 💛
 
 <div align="center">
   <a href="https://oleosb.github.io/portfolio">
