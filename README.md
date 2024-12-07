@@ -2,8 +2,6 @@
 
 ### Olá!
 
-- 🌱 FullStack Dev Encora Inc. 💛
-
 <div align="center">
   <a href="https://oleosb.github.io/portfolio">
   <img width='48%' src="https://github-readme-stats.vercel.app/api?username=oleosb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
